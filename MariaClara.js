@@ -1,4 +1,3 @@
-```javascript
 let quadrantes = [];
 
 function setup() {
@@ -114,4 +113,3 @@ function desenharQuadrante(x, y, w, h, corBg, corTopo, corEsq, corDir) {
 
   rect(x, y, w, h);
 }
-```
